@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:theme_module/src/color/app_colors.dart';
 import 'package:theme_module/src/color/theme_colors_extension.dart';
 import 'package:theme_module/src/text/app_text_style.dart';
-import 'package:theme_module/src/text/theme_text_extenstion.dart';
+import 'package:theme_module/src/text/theme_text_extension.dart';
 
 class AppThemeLight {
   static final light = ThemeData(

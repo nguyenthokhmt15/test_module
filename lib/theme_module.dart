@@ -1,7 +1,10 @@
 library theme_module;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/color/app_colors.dart';
+export 'src/color/theme_colors_extension.dart';
+export 'src/theme_context_extension.dart';
+export 'src/theme_extension.dart';
+export 'src/theme.dart';
+export 'src/text/app_text_style.dart';
+export 'src/text/text_style_extension.dart';
+export 'src/text/theme_text_extension.dart';
